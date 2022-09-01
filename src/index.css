@@ -1,0 +1,44 @@
+*{
+    font-family: 'Vazirmatn'
+  }
+  .bg-main-1{
+    background-color:#324376 ;
+  }
+  .text-main-1{
+    color: #324376;
+  }
+  .fw-200{
+    font-weight: 200;
+  }
+  .fs-15{
+    font-size: 15px;
+  }
+  .fs-13{
+    font-size: 13px;
+  }
+  .btn-main-1{
+    background-color: #324376;
+    transition: all 0.3s;
+  }
+  .cur-poin{
+    cursor: pointer;
+  }
+  ::-webkit-scrollbar {
+    width: 13px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgb(49, 49, 49);
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(150, 150, 150);
+    border-radius: 6px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
