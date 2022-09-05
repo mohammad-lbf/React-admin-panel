@@ -16,6 +16,13 @@
   .fs-13{
     font-size: 13px;
   }
+  .icon{
+    width: 40px;
+    height: 40px;
+}
+  .bg-main-2{
+    background-color: #f2f7ff;
+  }
   .btn-main-1{
     background-color: #324376;
     transition: all 0.3s;
