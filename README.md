@@ -1,6 +1,6 @@
-# React js نمونه توسعه داینامیک سایت دیجی کالا با
+# React js توسعه پنل ادمین
  
-لینک دموی پروژه: https://digikala-mohammadlbf.netlify.app/
+ لینک دموی پروژه: https://lbf-admin-panel.netlify.app/
 
 
 
